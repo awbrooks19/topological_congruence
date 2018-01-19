@@ -1,0 +1,9 @@
+Instructions for running the topological analysis scripts.
+
+Make a folder and change the outPath= variable in the python script to point to that folder.
+Within the folder place your two trees labeled:
+	ht.newick = Host Phylogeny
+	mt.newick = Microbiome Dendrogram
+	*** Alternatively you can change the htPath and mtPath to point to trees at different locations.
+
+Run the script!
